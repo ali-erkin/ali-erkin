@@ -1,16 +1,25 @@
-## Hi there 👋
+# Merhaba, Ben Ali Erkin! 👋
 
-<!--
-**ali-erkin/ali-erkin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔧 Hakkımda
+- ⛏️ Maden & Lojistik Mühendisi
+- 💻 Python Developer
+- 📍 İzmir, Türkiye
+- 🎯 Sektör problemlerini yazılımla çözüyorum
 
-Here are some ideas to get you started:
+## 🛠️ Teknolojiler
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projeler
+### ⛏️ Soma Kömür Ocağı Yönetim Sistemi
+> Maden sahası için vardiya, günlük ve haftalık üretim takip sistemi
+- Python, Flask, SQLite
+- Vardiya bazlı üretim takibi
+- Web arayüzü ile raporlama
+
+## 📫 İletişim
+- 💼 [Upwork](upwork.com/profilin)
+- 📧 email@gmail.com
